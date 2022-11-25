@@ -1,6 +1,6 @@
 # Movie Carnival Search site
 
-## Hosted link: [View Here] (https://github.com/deepanshu-981/Movie-Carnival-Search-Nov-2022)
+## Hosted link: [Click-Here](https://deepanshu-981.github.io/Movie-Carnival-Search-Nov-2022/)
 
 ## Tools used:
 * HTML
